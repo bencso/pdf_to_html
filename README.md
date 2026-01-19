@@ -42,6 +42,10 @@ Ez egy teszt/kísérleti projekt volt, hogy megismerjem a PDF szövegfeldolgozá
 - JavaScript ES6 modulok használata
 - Algoritmusok fejlesztése szövegfeldolgozáshoz
 
+## 📄 Licensz
+
+MIT License - Szabadon használható és módosítható
+
 ---
 
 Státusz: ✅ Befejezett
